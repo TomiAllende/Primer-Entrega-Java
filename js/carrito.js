@@ -11,3 +11,10 @@ let resultado = operacion(num1, num2, num3)
 console.log(resultado)
 return resultado
 }
+
+//Armo array sacando y agregando pedidos
+
+const pedidx = ["Pizza de cebolla", "Empanada JQ", "cerveza schenider"]
+pedidx.push ("empanada de carne")
+pedidx.push("cerveza stella")
+console.log(pedidxs.length)
