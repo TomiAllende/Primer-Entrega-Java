@@ -18,3 +18,6 @@ const pedidx = ["Pizza de cebolla", "Empanada JQ", "cerveza schenider"]
 pedidx.push ("empanada de carne")
 pedidx.push("cerveza stella")
 console.log(pedidxs.length)
+
+pedidx.shift
+console.log(pedidx)
